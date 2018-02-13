@@ -8,3 +8,13 @@ C:\Users\toor\Desktop\DigiPro\Compression\Compression\obj\Debug\Compression.cspr
 C:\Users\toor\Desktop\DigiPro\Compression\Compression\obj\Debug\Compression.csproj.CoreCompileInputs.cache
 C:\Users\toor\Desktop\DigiPro\Compression\Compression\obj\Debug\Compression.exe
 C:\Users\toor\Desktop\DigiPro\Compression\Compression\obj\Debug\Compression.pdb
+C:\Users\Alex\Desktop\JPEG-Compression\Compression\bin\Debug\Compression.exe.config
+C:\Users\Alex\Desktop\JPEG-Compression\Compression\bin\Debug\Compression.exe
+C:\Users\Alex\Desktop\JPEG-Compression\Compression\bin\Debug\Compression.pdb
+C:\Users\Alex\Desktop\JPEG-Compression\Compression\obj\Debug\Compression.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\JPEG-Compression\Compression\obj\Debug\Compression.Form1.resources
+C:\Users\Alex\Desktop\JPEG-Compression\Compression\obj\Debug\Compression.Properties.Resources.resources
+C:\Users\Alex\Desktop\JPEG-Compression\Compression\obj\Debug\Compression.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\JPEG-Compression\Compression\obj\Debug\Compression.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\JPEG-Compression\Compression\obj\Debug\Compression.exe
+C:\Users\Alex\Desktop\JPEG-Compression\Compression\obj\Debug\Compression.pdb
